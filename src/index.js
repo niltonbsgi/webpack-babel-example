@@ -1,1 +1,1 @@
-import FormContainer from './js/components/conteiner/FormContainer.jsx'  // "./js/components/container/FormContainer.jsx";
+import FormContainer from './js/components/conteiner/FormContainer.jsx'
